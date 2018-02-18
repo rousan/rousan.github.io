@@ -1,3 +1,0 @@
-# rousan.io
-
-Own portfolio
