@@ -1,0 +1,20 @@
+---
+layout: page
+title: Projects
+---
+<section class="list">
+    {% for project in site.data.projects %}
+        <div class="item">
+            <h3 class="heading">
+                <a class="url" href="{{ project.url }}">{{ project.name }}</a>
+            </h3>
+            <p class="desc">{{ project.description }}</p>
+        </div>
+    {% endfor %}
+
+    <div class="item">
+        <h3 class="heading">
+            <a class="url" href="https://github.com/rousan?tab=repositories">And many more…</a>
+        </h3>
+    </div>
+</section>
