@@ -21,6 +21,12 @@ title: About
 		My mother tongue is Bengali. I also can speak in English and Hindi.
 	</p>
 
+	<p class="about-mail">
+			<a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+					<svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+			</a>
+	</p>
+
 	<h2>Skills</h2>
 
 	<ul class="skill-list">
@@ -29,7 +35,7 @@ title: About
 		{% endfor %}
 	</ul>
 
-	<h2>
+	<h2 class="about-projects">
       <a class="link" href="{{ site.url }}/projects">Projects</a>
   </h2>
 </section>
