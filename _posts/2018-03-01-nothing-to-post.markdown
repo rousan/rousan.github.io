@@ -11,11 +11,9 @@ tag:
 category: blog
 author: rousan
 description: Nothing to post here
+permalink: /posts/:title/
 ---
 
 <!-- See the blog template from here: https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/_posts/2015-02-24-markdown-extra-components.markdown -->
-
-<!-- Also see the pagination from here:
-https://jekyllrb.com/docs/pagination/ -->
 
 Nothing to post here 😄.

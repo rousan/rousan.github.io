@@ -63,8 +63,8 @@ authors:
 width: large
 
 # If you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # If you don't need projects, comment the *projects* configs below
 projects: true
@@ -83,7 +83,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: []
 
 # Show author block at the end of a post?
 show-author: true
@@ -104,3 +104,4 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-paginate
