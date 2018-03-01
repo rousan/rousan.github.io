@@ -1,0 +1,53 @@
+.nav,
+.nav-home
+    > .list
+        list-style: none
+        margin: 0
+        padding: 0 13px 0
+
+        > .item
+            display: inline-block
+
+        > .item > .link
+            display: inline-block
+            font-weight: normal
+            font-size: 1.4rem
+            padding: 20px 10px
+            text-decoration: none
+
+.nav
+    width: 100%
+    box-sizing: border-box
+    position: absolute
+    left: 0
+    top: 0
+    text-align: center
+
+    > .list
+        padding: 0 13px 0
+
+        > .item > .link
+            font-size: 1.5rem
+            padding: 20px 10px
+            font-weight: bold
+
+.nav-home
+    margin-top: 20px
+    text-align: center
+
+    > .list
+        padding: 0
+
+        > .item > .link
+            font-size: 1.8rem
+            padding: 10px
+            margin: 0
+            border-radius: 4%
+            transition: all .4s ease-in-out
+            font-weight: bold
+
+            @media #{$mobile}
+                font-size: 1.6rem
+
+            &:hover
+                color: $delta

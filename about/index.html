@@ -1,0 +1,35 @@
+---
+layout: page
+title: About
+---
+
+<section>
+	<img class="profile" src="{{ site.url }}/{{ site.picture }}" alt="Rousan Ali"/>
+	<br />
+
+	<p>
+		Hi, it's Rousan.
+		I have completed my bachelor degree on Electrical Engineering from
+		<a href="http://jgec.ac.in/">Jalpaiguri Government Engineering College</a>.
+		Don't look on my bachelor stream 😄, I am a Computer Science maniac, love to work
+		on Web Development, Mobile Application Development and sometimes on native things.
+		I always prefer to work on Backend Development than Frontend.
+	</p>
+
+	<p>
+		I am from <a href="https://goo.gl/maps/4teZprRkwxr">Murshidabad, West Bengal, India</a>.
+		My mother tongue is Bengali. I also can speak in English and Hindi.
+	</p>
+
+	<h2>Skills</h2>
+
+	<ul class="skill-list">
+		{% for skill in site.data.skills %}
+			<li>{{ skill }}</li>
+		{% endfor %}
+	</ul>
+
+	<h2>
+      <a class="link" href="{{ site.url }}/projects">Projects</a>
+  </h2>
+</section>
