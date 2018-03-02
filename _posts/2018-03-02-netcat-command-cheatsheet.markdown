@@ -62,7 +62,7 @@ $ echo '<0>message' | nc -w 1 -u syslogger 514
 $ nc -v -e '/bin/bash' -l -p 1234 -t
 {% endhighlight %}
 
-`or`
+or
 
 {% highlight bash %}
 $ nc l p 1234 e "c:\windows\system32\cmd.exe"
