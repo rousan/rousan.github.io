@@ -1,11 +1,12 @@
 # Main text of home
 name: Rousan Ali
-bio: JS Developer
+bio: Enthusiast in Javascript and Golang
 
 # If it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
+selfie: assets/images/selfie.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
