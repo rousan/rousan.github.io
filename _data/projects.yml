@@ -1,6 +1,18 @@
+- name: Datash
+  url: https://datash.co
+  description: Send or receive text or file from one device to another one through a browser using end-to-end encryption.
+
+- name: AirClip
+  url: https://github.com/airclip
+  description: Sync clipboard data across all your devices over the air via CTRL+C and CTRL+V.
+
+- name: GoPx
+  url: https://github.com/gopx
+  description: Stable package registry for Golang (Not published).
+
 - name: Vector.svg
-  url: https://rousan.io/vector.svg/
-  description: A Javascript library for manipulating and animating SVG.
+  url: https://rousan.io/vector.svg
+  description: A JavaScript library for creating vector graphics using SVG. It uses the SVG W3C Recommendation. It provides SVG DOM manipulation, data binding and animation functionality.
 
 - name: ES6 Harmony
   url: https://rousan.io/es6-harmony/
