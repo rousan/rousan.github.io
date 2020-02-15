@@ -1,6 +1,6 @@
 # Main text of home
 name: Rousan Ali
-bio: Enthusiast in Javascript and Golang
+bio: Enthusiast in Web Development
 
 # If it's an external image, update below for true
 # better with square images
@@ -45,7 +45,7 @@ github: rousan
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: rousan
+# medium: rousan
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: hello@rousan.io
