@@ -7,7 +7,7 @@ title: About
 	<img class="profile" src="{{ site.url }}/{{ site.picture }}" alt="Rousan Ali" />
 	<br />
 
-	<p style="margin-bottom: 30px;">
+	<p>
 		I try to build things from scratch to One for open source community and try solving hard problems with simpler
 		methods regardless of its complexity. I have a passion for learning new technologies by applying my knowledge
 		and skills in a challenging environment. I prefer to work in a competitive environment where every second you
@@ -23,19 +23,6 @@ title: About
 		</a> -->
 	</p>
 
-	<div>
-		Please find my email id below to connect with me.
-		<p class="about-mail" style="margin-top: 10px;">
-			<a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-				<span>
-					<svg class="icon icon-mail">
-						<use xlink:href="#icon-mail"></use>
-					</svg>
-				</span>
-			</a>
-		</p>
-	</div>
-
 	<h3 class="skill-title" style="margin-top: 40px;">Key Skills</h3>
 	<ul class="skill-list">
 		{% for skill in site.data.skills.keySkills %}
@@ -50,8 +37,18 @@ title: About
 		{% endfor %}
 	</ul>
 
-
-
+	<div>
+		Please find my email id below to connect with me.
+		<p class="about-mail" style="margin-top: 10px;">
+			<a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+				<span>
+					<svg class="icon icon-mail">
+						<use xlink:href="#icon-mail"></use>
+					</svg>
+				</span>
+			</a>
+		</p>
+	</div>
 	<!-- 
 	<h2 class="about-projects">
       <a class="link" href="{{ site.url }}/projects">Projects</a>
