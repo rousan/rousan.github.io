@@ -17,13 +17,7 @@ title: About
 		<br />
 		<br />
 		Please find my email id below to connect with me.
-	</p>
-
-	<p class="about-mail">
 		<a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-			<span>
-				{{ site.email }}
-			</span>
 			<span>
 				<svg class="icon icon-mail">
 					<use xlink:href="#icon-mail"></use>
@@ -32,14 +26,24 @@ title: About
 		</a>
 	</p>
 
-	<h3>Key Skills</h3>
+	<!-- <p class="about-mail">
+		<a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+			<span>
+				<svg class="icon icon-mail">
+					<use xlink:href="#icon-mail"></use>
+				</svg>
+			</span>
+		</a>
+	</p> -->
+
+	<h3 class="skill-title">Key Skills</h3>
 	<ul class="skill-list">
 		{% for skill in site.data.skills.keySkills %}
 		<li>{{ skill }}</li>
 		{% endfor %}
 	</ul>
 
-	<h3>Technological Skills</h3>
+	<h3 style="margin-top: 15px;">Technological Skills</h3>
 	<ul class="skill-list">
 		{% for skill in site.data.skills.technologicalSkills %}
 		<li>{{ skill }}</li>
