@@ -4,13 +4,13 @@
 
 - name: ES6 Harmony
   url: https://rousan.io/es6-harmony/
-  description: ES6 equivalent implimentation in ES5 for old JavaScript engines.
+  description: ES6 equivalent implementation in ES5 for old JavaScript engines.
 
 - name: BelofteJS
   url: https://rousan.io/belofte.js/
   description: A lightweight Promises/A+ compliant implementation of ECMAScript Promise API.
 
-- name: Linkedin Auto Connect 
+- name: LinkedIn Auto Connect 
   url: https://rousan.io/linkedin-auto-connect/
   description: An automation tool to automate the connection requests on LinkedIn.
 
