@@ -14,21 +14,34 @@ title: About
 		are required to prove how far you can go to be at the top.
 		I believe in “Work is Worship”. Once I committed myself to a particular task, I make sure I finish it without
 		compromising on the quality.
+		<br/>
+		<br/>
+		Please find my email id below to connect with me.		
 	</p>
 
 	<p class="about-mail">
 			<a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+					site.email
 					<svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
 			</a>
 	</p>
 
-	<h2>Skills</h2>
-
+	<h3>Key Skills</h3>
 	<ul class="skill-list">
-		{% for skill in site.data.skills %}
+		{% for skill in site.data.skills.keySkills %}
 			<li>{{ skill }}</li>
 		{% endfor %}
 	</ul>
+
+	<h3>Technological Skills</h3>
+	<ul class="skill-list">
+		{% for skill in site.data.skills.technologicalSkills %}
+			<li>{{ skill }}</li>
+		{% endfor %}
+	</ul>
+
+
+
 <!-- 
 	<h2 class="about-projects">
       <a class="link" href="{{ site.url }}/projects">Projects</a>

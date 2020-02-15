@@ -1,13 +1,20 @@
-- Expert on Javascript and Golang.
-- Knowledge of Functional Programming with Lodash, Underscore.js.
-- Modular Javascript with AMD, CommonJS and ES6 module system.
-- Cross platform app development with ElectronJS and Qt.
-- Front End development with ReactJS, VueJs, AngularJS.
-- Front End UI development with HTML5, CSS3, jQuery.
-- Build tools like Gulp, Grunt, Webpack, Rollup.
-- Headless website testing and Page automation with PhantomJs.
-- Knowledge of Vector Graphics with Raphaël, SVG.js, Snap.svg.
-- BackEnd development with NodeJs, Express Js, Python, Ruby, Go.
-- Mobile Application Development with Android, React Native.
-- Programming in ANSI C11 and C++14 with STL.
-- Also worked with C#, .NET Framework.
+keySkills:
+  - Design, Develop and Deploy an app from scratch to One.
+  - Application architecture, API Design, System Design, and DevOps.
+  - Iteratively developing, refining and implementing new features on existing projects.
+  - I love to learn new technologies if needed.
+technologicalSkills:
+  - Expert on JavaScript (ES5 - ES10).
+  - Frontend with HTML/CSS, JavaScript, ReactJs, Redux, Angular, WebAssembly.
+  - Frontend UI with Bootstrap, Ant Design.
+  - Backend with NodeJS, ExpressJS, Python, Rust, Golang.
+  - Continuous integration and deployment etc. DevOps.
+  - Knowledge of Functional Programming with Lodash, Underscore.js.
+  - Modular JavaScript With AMD, CommonJS and ES Harmony.
+  - Build tools like Webpack, Parcel, Babel, Gulp, Grunt, Rollup.
+  - Headless website testing and Page automation with PhantomJs, puppeteer.
+  - Worked with MySQL, MongoDB, DynamoDB, SQLite.
+  - Desktop app development with Electron, Qt.
+  - Knowledge on Android SDK/NDK, Java.
+  - Developed native apps with C, C++, Rust, Golang.
+  - Also worked with C#, .NET Framework.
