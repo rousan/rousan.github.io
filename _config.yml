@@ -12,7 +12,7 @@ selfie: assets/images/selfie.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1jrDZOyC5Kt7Kna56qUQEm_Sqvm020--I/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1QcjwODLrdI5FWtkULjfNDOteErV2fL4h/view?usp=sharing
 
 # The base url of site without trailing slash
 url: https://rousan.io
