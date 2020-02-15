@@ -1,6 +1,6 @@
 - name: Datash
   url: https://datash.co
-  description: Send or receive text or file from one device to another one through a browser using end-to-end encryption.
+  description: Send and receive text or file from one device to another through a browser using end-to-end encryption.
 
 - name: AirClip
   url: https://github.com/airclip
@@ -16,7 +16,7 @@
 
 - name: ES6 Harmony
   url: https://rousan.io/es6-harmony/
-  description: ES6 equivalent implementation in ES5 for old JavaScript engines.
+  description: ES6 equivalent implementation in ES5 for older JavaScript engines.
 
 - name: BelofteJS
   url: https://rousan.io/belofte.js/
@@ -28,9 +28,9 @@
 
 - name: Symbol ES6
   url: https://rousan.io/symbol-es6/
-  description: ES6 Symbol polyfill in pure ES5.
+  description: Provides support for Symbol API of ES6 in ES5 environment for older browsers.
 
 - name: Collections ES6
   url: https://rousan.io/collections-es6/
-  description: ES6 Map, Set, WeakMap and WeakSet polyfill in pure ES5.
+  description: ES6 Map, Set, WeakMap and WeakSet polyfill in pure ES5 code.
   
