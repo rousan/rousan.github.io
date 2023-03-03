@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rousan.io/sitemap.xml
+Sitemap: https://rousanali.com/sitemap.xml

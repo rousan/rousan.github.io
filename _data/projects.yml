@@ -11,26 +11,25 @@
   description: Stable package registry for Golang (Not published).
 
 - name: Vector.svg
-  url: https://rousan.io/vector.svg
+  url: https://rousanali.com/vector.svg
   description: A JavaScript library for creating vector graphics using SVG. It uses the SVG W3C Recommendation. It provides SVG DOM manipulation, data binding and animation functionality.
 
 - name: ES6 Harmony
-  url: https://rousan.io/es6-harmony/
+  url: https://rousanali.com/es6-harmony/
   description: ES6 equivalent implementation in ES5 for older JavaScript engines.
 
 - name: BelofteJS
-  url: https://rousan.io/belofte.js/
+  url: https://rousanali.com/belofte.js/
   description: A lightweight Promises/A+ compliant implementation of ECMAScript Promise API.
 
-- name: LinkedIn Auto Connect 
-  url: https://rousan.io/linkedin-auto-connect/
+- name: LinkedIn Auto Connect
+  url: https://rousanali.com/linkedin-auto-connect/
   description: An automation tool to automate the connection requests on LinkedIn.
 
 - name: Symbol ES6
-  url: https://rousan.io/symbol-es6/
+  url: https://rousanali.com/symbol-es6/
   description: Provides support for Symbol API of ES6 in ES5 environment for older browsers.
 
 - name: Collections ES6
-  url: https://rousan.io/collections-es6/
+  url: https://rousanali.com/collections-es6/
   description: ES6 Map, Set, WeakMap and WeakSet polyfill in pure ES5 code.
-  

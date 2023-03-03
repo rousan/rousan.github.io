@@ -15,12 +15,12 @@ resume-external: true
 resume-url: https://drive.google.com/file/d/1pcOxUfQwDKbfLCCCE6DlFmQCK7osDJyF/view?usp=sharing
 
 # The base url of site without trailing slash
-url: https://rousan.io
+url: https://rousanali.com
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-114357378-1'
+analytics-google: "UA-114357378-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -48,15 +48,15 @@ github: rousan
 # medium: rousan
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: hello@rousan.io
+email: rousanali786@gmail.com
 
 authors:
-    rousan:
-        name: Rousan Ali
-        bio: JS Developer
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: TheRousan
+  rousan:
+    name: Rousan Ali
+    bio: JS Developer
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: TheRousan
 
 # Do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -93,11 +93,11 @@ show-author: true
 animation: true
 
 exclude:
-  - 'README.md'
-  - 'Gemfile.lock'
-  - 'Gemfile'
-  - 'Rakefile'
-  - 'travis.sh'
+  - "README.md"
+  - "Gemfile.lock"
+  - "Gemfile"
+  - "Rakefile"
+  - "travis.sh"
 
 plugins:
   - jekyll-seo-tag
